@@ -7,3 +7,4 @@ from PageClass.DepartmentPage import DepartmentPage
 
 if __name__ == '__main__':
     d1=DepartmentPage()
+    
