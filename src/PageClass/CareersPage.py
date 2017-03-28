@@ -12,3 +12,11 @@ class CareersPage(FirefoxPage):
     def carrersLinkClick(self):
         self.driver.find_element_by_xpath("//a[text()='Careers']").click()
         
+    def contextClick(self):
+        self.driver.find_element_by_id("button")
+        
+    def doubleclick(self):
+        self.driver.find_element_by_name("signButton")
+        
+    def buttonclick(self):
+        self.driver.find_element_by_id("enable")
