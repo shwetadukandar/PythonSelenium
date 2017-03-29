@@ -77,3 +77,34 @@ Spinner.prototype.observe@resource://gre/modules/AsyncShutdown.jsm:551:9
 JavaScript error: , line 0: uncaught exception: [object Object]
 JavaScript error: , line 0: uncaught exception: [object Object]
 JavaScript warning: https://images-cn.ssl-images-amazon.com/images/S/jobs-prod-assets-store/assets/application-10aaafb28a2fed2bcc24c7b22cf01b69afd5f79ebd257fa563ca2f9c27c2260c.js, line 32: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1490700751220	geckodriver	INFO	Listening on 127.0.0.1:53098
+1490700753313	mozprofile::profile	INFO	Using profile path C:\Users\Gouri\AppData\Local\Temp\rust_mozprofile.OhRMXVfNLH8H
+1490700753328	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490700753430	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53104
+1490700766712	Marionette	INFO	Listening on port 53104
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+1490700910382	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490700944011	geckodriver	INFO	Listening on 127.0.0.1:53317
+1490700948419	mozprofile::profile	INFO	Using profile path C:\Users\Gouri\AppData\Local\Temp\rust_mozprofile.a3Yd6nOyPuMV
+1490700948455	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490700948561	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53327
+1490700957834	Marionette	INFO	Listening on port 53327
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+1490701078667	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1490709834249	geckodriver	INFO	Listening on 127.0.0.1:54569
+1490709836111	mozprofile::profile	INFO	Using profile path C:\Users\Gouri\AppData\Local\Temp\rust_mozprofile.hvjYRC6Rm0OR
+1490709836123	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490709836282	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54578
+1490709856460	Marionette	INFO	Listening on port 54578
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 3577: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1490710342389	geckodriver	INFO	Listening on 127.0.0.1:54871
+1490710344161	mozprofile::profile	INFO	Using profile path C:\Users\Gouri\AppData\Local\Temp\rust_mozprofile.MbeavBiMMffp
+1490710344177	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1490710344265	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54877
+1490710361935	Marionette	INFO	Listening on port 54877
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
